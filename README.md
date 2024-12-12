@@ -1,6 +1,27 @@
- Tripleten web_project_around_react
- available at : https://asrm7.github.io/web_project_around_react/
+Projeto Web Triplet Around Auth
+Projeto Web Around React
 
-Foi criada uma página interativa semelhante a uma rede social onde os usuários podem adicionar, excluir e curtir fotos, além de editar seu nome de usuário e informações pessoais por meio de uma API.
+Link para GitHub Pages
+https://asrm7.github.io/web_project_around_auth/
 
-Projeto em React, demonstrando o uso de hooks e requisições síncronas a uma API. 
+Introdução
+"Across the United States" é uma atualização do nosso Projeto do Sprint 7, onde começamos a trabalhar com JavaScript. Neste projeto, reaproveitamos o projeto do Sprint 14 e adicionamos as rotas de login e registro de usuários. 
+
+Ferramentas
+React
+
+JSX
+
+Metodologia BEM
+
+CSS
+
+Media Queries
+
+Hooks do React
+
+API
+
+React Router
+
+Este projeto foi iniciado com Create React App.
